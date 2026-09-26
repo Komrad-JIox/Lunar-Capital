@@ -8,11 +8,11 @@
     "uniques": [
       "Limited to [1] per Civilization <hidden from users>",
 	  "Only available [in capital] after building Dragon King Palace",
-	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>"]
+	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>",
+	  "Never appears as a Barbarian unit"],
 },
-
 {
-		"name": "Rabbit-Trooper",
+		"name": "Moonn Rabbit Trooper",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Lunatic Kingdom",
 		"replaces": "Paratrooper",
