@@ -10,24 +10,23 @@
       "Limited to [1] per Civilization <hidden from users>",
 	  "Only available [in capital] after building Dragon King Palace",
 	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>"
-	],
-    "civilopediaText": [{"text": "Older Princess of Lunar Capital, can travel far away by using her powers."}]
+	]
   }
 ]
 
 [
 	{
-		"name": "Moon Rabbit Trooper",
+		"name": "Rabbit-Trooper",
 		"unitType": "Ranged",
 		"uniqueTo": "Lunatic Kingdom",
-		"replaces": "Machine Gun",
+		"replaces": "Paratrooper",
 		"movement": 4,
 		"strength": 90,
 		"rangedStrength": 70,
 		"range": 2,
 		"cost": 350,
-		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "machinegun"
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
 	}
 ]
