@@ -1,4 +1,5 @@
-{
+[
+	{
     "name": "Watatsuki no Toyohime",
 	"uniqueTo": "Lunatic Kingdom",
     "unitType": "Fighter Hero",
@@ -12,6 +13,7 @@
 	  "Never appears as a Barbarian unit"
 	]
 },
+
 {
 		"name": "Moon Rabbit Trooper",
 		"unitType": "Gunpowder",
@@ -26,3 +28,4 @@
 		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 }
+]
