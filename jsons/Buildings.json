@@ -21,6 +21,7 @@
 		"culture": 5,
 		"cost": 150,
 		"isWonder": true,
+		"requiredTech": "Mathematics",
 		"uniques": ["40% of food is carried over after a new citizen is born"]
 	},
 	{
