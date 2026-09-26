@@ -1,40 +1,41 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Lunatic Kingdom",
+		"leaderName": "Lord Tsukuyomi",
+		"adjective": ["lunarian"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Resistance is futile! Prepare to be purified!",
+		"attacked": "You dare bring impurity on a pure soil? You will pay for that!",
+		"defeated": "All those years of avoid impurity and death for nothing...",
+		"introduction": "As sas beings of pure and perfect utopia, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "What do you wish from us, earthling?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What do you want, impure earthling?",
 		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		//"hateYes": ["That is fine.","That is good enough.","Very well...","Maybe earthlings do have some use after all..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		//"afterPeace": "Very well, all those wars were containing us long enough.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"denounced": "The accusations of earthlings are beneath us.",
+		"declaringfriendship": "Friendship with earthlings have its own benefits.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [11, 56, 156],
+		"innerColor": [15, 6, 82],
+		"uniqueName": "Purity of the Moon"
+		"unique": ["Cannot build [Settler] units", "[+50]% [Gold] [in this city]", "[+50]% [Science] [in this city]", 
+		"[+100]% [Culture] [in this city]", "[+100]% [Religion] [in this city]", "[-50]% [Production] [in capital] <when at war>",
+		"[-50]% [Culture] [in capital] <when at war>"]
+		
+		"cities": ["Lunar Capital", "Dragon King Palace", "Lunar Sage's House"]
 	}
 ]
