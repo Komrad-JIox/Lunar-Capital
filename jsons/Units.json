@@ -6,13 +6,25 @@
     "movement": 4,
     "strength": 75,
 	"rangedStrength": 38
-    "cost": 150,
+    "cost": 350,
     "uniques": [
       "Limited to [1] per Civilization <hidden from users>",
 	  "Only available <if [Moon Palace] is constructed>",
 	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>",
-	  "Never appears as a Barbarian unit"
-	]
+	  "Never appears as a Barbarian unit"]
+},
+
+	{
+    "name": "Watatsuki no Yorihime",
+	"uniqueTo": "Lunatic Kingdom",
+    "unitType": "Fighter Hero",
+    "movement": 3,
+    "strength": 96,
+    "cost": 350,
+    "uniques": [
+      "Limited to [1] per Civilization <hidden from users>",
+	  "Only available <if [Moon Palace] is constructed>", "[+15]% Strength bonus for [Military] units within [3] tiles",
+	  "Never appears as a Barbarian unit"]
 },
 
 	{
@@ -39,5 +51,17 @@
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-}
+},
+	{
+		"name": "Vijoka",
+		"replaces": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 170,
+		"cost": 445,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "May Paradrop to [Land] tiles up to [6] tiles away <in [{Friendly} {Land}] tiles>", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
 ]
