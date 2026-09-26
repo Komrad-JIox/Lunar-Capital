@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Dragon King Palace",
+		"replaces": "Palace",
+		"uniqueTo": "Lunatic Kingdom",
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"production": 20,
+		"science": 15,
+		"gold": 40,
+		"culture": 50,
+		"cityStrength": 2.5,
+		"cost": 0,
+		"uniques": ["Indicates the capital city"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "PEach Gardens",
+		"replaces": "Hanging Gardens",
+		"uniqueTo": "Lunatic Kingdom",
+		"greatPersonPoints": {"Great Artist": 1},
+		"food": 15,
+		"culture": 5,
+		"isWonder": true,
+		"uniques": ["40% of food is carried over after a new citizen is born"]
 	}
 ]
