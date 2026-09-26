@@ -1,17 +1,33 @@
 [
+  {
+    "name": "Watatsuki no Toyohime",
+	"uniqueTo": "Lunatic Kingdom",
+    "unitType": "Fighter Hero",
+    "movement": 4,
+    "strength": 75,
+    "cost": 150,
+    "uniques": [
+      "Limited to [1] per Civilization <hidden from users>",
+	  "Only available [in capital] after building Dragon King Palace",
+	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>"
+	],
+    "civilopediaText": [{"text": "Older Princess of Lunar Capital, can travel far away by using her powers."}]
+  }
+]
+
+[
 	{
-		"name": "Phasers",
+		"name": "Moon Rabbit Trooper",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Lunatic Kingdom",
 		"replaces": "Machine Gun",
-		"movement": 2,
+		"movement": 4,
 		"strength": 90,
-		"rangedStrength": 36,
+		"rangedStrength": 70,
 		"range": 2,
-		"cost": 500,
+		"cost": 350,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "machinegun"
 	}
 ]
