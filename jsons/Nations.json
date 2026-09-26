@@ -6,8 +6,8 @@
 		"startBias": ["Pure Lands"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "However, there was a sage who realized that the impurity was stealing life from all living things. It is said that while watching the full moon hanging in the sky over the ocean, this sage became determined to free themselves from the impure Earth.",
+		"startIntroPart2": "The Earth grew too powerful and advanced to ignore, Lord Tsukuyomi. It seems like the contacts with humans will be too often from now on.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be purified!",
 		"attacked": "You dare bring impurity on a pure soil? You will pay for that!",
@@ -32,9 +32,10 @@
 		"outerColor": [59, 95, 175],
 		"innerColor": [15, 8, 69],
 		"uniqueName": "Purity of the Moon",
-		"uniques": ["[+50]% [Gold] [in this city]", "[+50]% [Science] [in this city]", 
-		"[+100]% [Culture] [in this city]", "[-50]% [Production] [in capital] <when at war>",
-		"[-50]% [Culture] [in capital] <when at war>"],
+		"uniques": ["[All] units gain the [Lunarian] promotion", "[+50]% [Gold] [in this city]", "[+50]% [Science] [in this city]", 
+		"[+100]% [Culture] [in capital]", "[15]% [Production] [in all cities]", "[-25]% [Production] [in all cities] <when at war>",
+		"[-50]% [Culture] [in all cities] <when at war>", "[-50]% maintenance cost for [All] buildings [in all cities]",
+			"[-20]% construction time for [All] improvements"],
 		"cities": ["Lunar Capital", "Dragon King Palace", "Lunar Sage's House"]
 	}
 ]
