@@ -56,6 +56,7 @@
 		"name": "Vijoka",
 		"replaces": "Giant Death Robot",
 		"unitType": "Armored",
+		"uniqueTo": "Lunatic Kingdom",
 		"movement": 4,
 		"strength": 170,
 		"cost": 445,
