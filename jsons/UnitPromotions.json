@@ -3,5 +3,7 @@
 		"uniques": [
 			"[-5]% Strength <when defending>",
 			"[+15]% Strength <when attacking>",
+		"column": 1,
+	    "row": 10
 		]
 	}
