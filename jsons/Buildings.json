@@ -25,6 +25,8 @@
 	},
 	{
 		"name": "Temple of Chang'e",
+		"replaces": "Temple of Artemis",
+		"uniqueTo": "Lunatic Kingdom",
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
