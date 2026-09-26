@@ -13,12 +13,13 @@
 		"uniques": ["Indicates the capital city"]
 	},
 	{
-		"name": "PEach Gardens",
+		"name": "Peach Gardens",
 		"replaces": "Hanging Gardens",
 		"uniqueTo": "Lunatic Kingdom",
 		"greatPersonPoints": {"Great Artist": 1},
 		"food": 15,
 		"culture": 5,
+		"cost": 150,
 		"isWonder": true,
 		"uniques": ["40% of food is carried over after a new citizen is born"]
 	}
