@@ -1,5 +1,4 @@
-[
-  {
+{
     "name": "Watatsuki no Toyohime",
 	"uniqueTo": "Lunatic Kingdom",
     "unitType": "Fighter Hero",
@@ -11,13 +10,11 @@
 	  "Only available [in capital] after building Dragon King Palace",
 	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>"
 	]
-  }
-]
+{
 
 
 
-[
-	{
+{
 		"name": "Rabbit-Trooper",
 		"unitType": "Ranged",
 		"uniqueTo": "Lunatic Kingdom",
@@ -30,5 +27,4 @@
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-	}
-]
+}
