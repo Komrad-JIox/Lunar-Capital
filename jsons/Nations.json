@@ -32,7 +32,7 @@
 		"outerColor": [59, 95, 175],
 		"innerColor": [15, 8, 69],
 		"uniqueName": "Purity of the Moon",
-		"uniques": ["[All] units gain the [Lunarian] promotion", "[+50]% [Gold] [in this city]", "[+50]% [Science] [in this city]", 
+		"uniques": ["[+50]% [Gold] [in this city]", "[+50]% [Science] [in this city]", 
 		"[+100]% [Culture] [in capital]", "[15]% [Production] [in all cities]", "[-25]% [Production] [in all cities] <when at war>",
 		"[-50]% [Culture] [in all cities] <when at war>", "[-50]% maintenance cost for [All] buildings [in all cities]",
 			"[-20]% construction time for [All] improvements"],
