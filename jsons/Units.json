@@ -8,7 +8,7 @@
     "cost": 150,
     "uniques": [
       "Limited to [1] per Civilization <hidden from users>",
-	  "Requires [Dragon King Palace]",
+	  "Only available <if [Dragon King Palace] is constructed>",
 	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>",
 	  "Never appears as a Barbarian unit"
 	]
