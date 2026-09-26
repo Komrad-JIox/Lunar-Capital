@@ -29,8 +29,8 @@
 		"denounced": "The accusations of earthlings are beneath us.",
 		"declaringfriendship": "Friendship with earthlings have its own benefits.",
 
-		"outerColor": [11, 56, 156],
-		"innerColor": [15, 6, 82],
+		"outerColor": [59, 95, 175],
+		"innerColor": [15, 8, 69],
 		"uniqueName": "Purity of the Moon"
 		"unique": ["Cannot build [Settler] units", "[+50]% [Gold] [in this city]", "[+50]% [Science] [in this city]", 
 		"[+100]% [Culture] [in this city]", "[+100]% [Religion] [in this city]", "[-50]% [Production] [in capital] <when at war>",
