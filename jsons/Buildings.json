@@ -22,5 +22,15 @@
 		"cost": 150,
 		"isWonder": true,
 		"uniques": ["40% of food is carried over after a new citizen is born"]
+	},
+	{
+		"name": "Temple of Chang'e",
+		"culture": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+        "uniques": ["[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Archery] units [in this city]",
+            "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]", "Free [Worker] appears"],
+		"requiredTech": "Archery",
+		"quote": "Despite Chang'e being a traitor for drinking Hourai Elixir she is the only person who can keep Moon Rabbits obedient to Lunarians."
 	}
 ]
