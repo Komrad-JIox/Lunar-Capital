@@ -14,6 +14,16 @@
 	]
 },
 
+	{
+		"name": "Moon Rabbit Worker",
+		"unitType": "Civilian",
+		"replaces": "Worker",
+		"movement": 4,
+		"requiredTech": "Agriculture",
+		"uniques": ["Can build [Land] improvements on tiles", "Can move immediately once bought", "Automation is a primary action"],
+		"cost": 70
+	},
+
 {
 		"name": "Moon Rabbit Trooper",
 		"unitType": "Gunpowder",
