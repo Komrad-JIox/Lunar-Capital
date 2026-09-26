@@ -5,10 +5,11 @@
     "unitType": "Fighter Hero",
     "movement": 4,
     "strength": 75,
+	"rangedStrength": 38
     "cost": 150,
     "uniques": [
       "Limited to [1] per Civilization <hidden from users>",
-	  "Only available <if [Dragon King Palace] is constructed>",
+	  "Only available <if [Moon Palace] is constructed>",
 	  "May Paradrop to [Land] tiles up to [100] tiles away <if it hasn't used other actions yet>",
 	  "Never appears as a Barbarian unit"
 	]
