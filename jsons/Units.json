@@ -18,6 +18,7 @@
 	{
 		"name": "Moon Rabbit Worker",
 		"unitType": "Civilian",
+		"uniqueTo": "Lunatic Kingdom",
 		"replaces": "Worker",
 		"movement": 4,
 		"requiredTech": "Agriculture",
