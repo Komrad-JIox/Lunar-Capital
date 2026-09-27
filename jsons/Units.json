@@ -54,7 +54,7 @@
 },
 
 	{
-		"name" "Lunarian Marine",
+		"name": "Lunarian Marine",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Lunatic Kingdom",
