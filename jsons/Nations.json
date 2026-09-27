@@ -3,7 +3,7 @@
 		"name": "Lunatic Kingdom",
 		"leaderName": "Lord Tsukuyomi",
 		"adjective": ["Lunarian"],
-		"startBias": ["Pure Lands"],
+		"startBias": ["Avoid [Jungle]","Avoid [Forest]", "Coast", "Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "However, there was a sage who realized that the impurity was stealing life from all living things. It is said that while watching the full moon hanging in the sky over the ocean, this sage became determined to free themselves from the impure Earth.",
@@ -32,8 +32,8 @@
 		"outerColor": [59, 95, 175],
 		"innerColor": [15, 8, 69],
 		"uniqueName": "Purity of the Moon",
-		"uniques": ["[+50]% [Gold] [in this city]", "[+50]% [Science] [in this city]", 
-		"[+100]% [Culture] [in capital]", "[15]% [Production] [in all cities]", "[-25]% [Production] [in all cities] <when at war>",
+		"uniques": ["[+20]% [Gold] [in this city]", "[+25]% [Science] [in this city]", 
+		"[+20]% [Culture] [in capital]", "[15]% [Production] [in all cities]", "[-25]% [Production] [in all cities] <when at war>",
 		"[-50]% [Culture] [in all cities] <when at war>", "[-50]% maintenance cost for [All] buildings [in all cities]",
 			"[-20]% construction time for [All] improvements"],
 		"cities": ["Lunar Capital", "Dragon King Palace", "Lunar Sage's House, Moon Rabbit District"]
