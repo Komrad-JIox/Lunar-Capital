@@ -40,6 +40,7 @@
 		"Name": "Chang'e's Prison",
 		"uniqueTo": "Lunatic Kingdom ",
 		"isWonder": true,
-		"uniques": "Only available <after reaching the [Information era]>"
+		"requiredTech": "Atomic Thory",
+		"uniques": "Triggers a global alert upon completion", "Cannot be hurried"
 	}
 ]
