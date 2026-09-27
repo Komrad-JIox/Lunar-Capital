@@ -40,7 +40,7 @@
 		"name": "Chang'e's Prison",
 		"uniqueTo": "Lunatic Kingdom",
 		"isWonder": true,
-		"requiredTech": "Atomic Thory",
+		"requiredTech": "Atomic Theory",
 		"uniques": ["Triggers a global alert upon completion", "Cannot be hurried"]
 	}
 ]
