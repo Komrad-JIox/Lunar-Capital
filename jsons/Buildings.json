@@ -37,7 +37,7 @@
 		"quote": "Despite Chang'e being a traitor for drinking Hourai Elixir she is the only person who can keep Moon Rabbits obedient to Lunarians."
 	},
 	{ 
-		"Name": "Chang'e's Prison",
+		"name": "Chang'e's Prison",
 		"uniqueTo": "Lunatic Kingdom",
 		"isWonder": true,
 		"requiredTech": "Atomic Thory",
