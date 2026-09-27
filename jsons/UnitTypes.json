@@ -5,7 +5,6 @@
     },
     {
         "name": "Hourai Immortal",
-        "movementTyoe": "Land",
-        "unique": "[Resurrected Fallen] appears <upon being defeated>"
+        "movementTyoe": "Land"
     }
 ]
