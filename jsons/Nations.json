@@ -36,6 +36,7 @@
 		"[+100]% [Culture] [in capital]", "[15]% [Production] [in all cities]", "[-25]% [Production] [in all cities] <when at war>",
 		"[-50]% [Culture] [in all cities] <when at war>", "[-50]% maintenance cost for [All] buildings [in all cities]",
 			"[-20]% construction time for [All] improvements"],
-		"cities": ["Lunar Capital", "Dragon King Palace", "Lunar Sage's House"]
+		"cities": ["Lunar Capital", "Dragon King Palace", "Lunar Sage's House, Moon Rabbit District"]
+		"spyNames": ["Reisen, Seiran, Ringo, Udonge, Reisen II, Gringo, Moon Rabbit #251"]
 	}
 ]
