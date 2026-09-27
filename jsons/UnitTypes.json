@@ -2,5 +2,10 @@
     {
         "name": "Fighter Hero",
         "movementType": "Land"
+    },
+    {
+        "name": "Hourai Immortal",
+        "movementTyoe": "Land",
+        "unique": "[Resurrected Fallen] appears <upon being defeated>"
     }
 ]
