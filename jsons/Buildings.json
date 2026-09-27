@@ -9,7 +9,7 @@
 		"gold": 40,
 		"culture": 50,
 		"cityStrength": 2.5,
-		"cost": 150,
+		"cost": 0,
 		"uniques": ["Indicates the capital city"]
 	},
 	{
