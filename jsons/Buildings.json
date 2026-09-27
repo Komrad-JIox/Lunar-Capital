@@ -40,5 +40,6 @@
 		"Name": "Chang'e's Prison",
 		"uniqueTo": "Lunatic Kingdom ",
 		"isWonder": true,
-		"uniques": "Only available <after reaching [Information era]>"
+		"uniques": "Requires [Information era]>"
+	}
 ]
