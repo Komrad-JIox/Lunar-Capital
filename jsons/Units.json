@@ -38,8 +38,7 @@
       "Limited to [1] per Civilization <hidden from users>",
 	  "Only available <if [Chang'e's Prison] is constructed>", "[+25]% Strength bonus for [Military] units within [3] tiles",
 	  "Never appears as a Barbarian unit"]
-
-	["Free [Resurrected Fallen] appears <upon being defeated>"]
+	},
 
 	{
 		"name": "Moon Rabbit Worker",
