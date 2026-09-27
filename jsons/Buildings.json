@@ -35,5 +35,10 @@
             "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]", "Free [Worker] appears"],
 		"requiredTech": "Archery",
 		"quote": "Despite Chang'e being a traitor for drinking Hourai Elixir she is the only person who can keep Moon Rabbits obedient to Lunarians."
-	}
+	},
+	{ 
+		"Name": "Chang'e's Prison",
+		"uniqueTo": "Lunatic Kingdom ",
+		"isWonder": true,
+		"uniques": "Only available <after reaching [Information era]>"
 ]
