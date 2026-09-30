@@ -24,19 +24,19 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well...","Maybe earthlings do have some use after all..."],
 		
-		"afterPeace": "Very well, all those wars were containing us long enough.",
+		"afterPeace": "Very well, all those wars were contaminating us long enough.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"denounced": "The accusations of earthlings are beneath us.",
-		"declaringfriendship": "Friendship with earthlings have its own benefits.",
+		"declaringfriendship": "Friendship with earthlings has its own benefits.",
 
 		"outerColor": [59, 95, 175],
 		"innerColor": [15, 8, 69],
 		"uniqueName": "Purity of the Moon",
-		"uniques": ["[+20]% [Gold] [in this city]", "[+25]% [Science] [in this city]", 
+		"uniques": ["[+20]% [Gold] [in this city]", "[+35]% [Science] [in this city]", 
 		"[+20]% [Culture] [in capital]", "[15]% [Production] [in all cities]", "[-25]% [Production] [in all cities] <when at war>",
 		"[-50]% [Culture] [in all cities] <when at war>", "[-50]% maintenance cost for [All] buildings [in all cities]",
 			"[-20]% construction time for [All] improvements"],
-		"cities": ["Lunar Capital", "Dragon King Palace", "Lunar Sage's House, Moon Rabbit District"]
+		"cities": ["Lunar Capital", "Dragon King Palace", "Lunar Sage's House", "Moon Rabbit District", "Eientei"]
 		"spyNames": ["Reisen", "Seiran", "Ringo", "Udonge", "Reisen II", "Gringo", "Moon Rabbit #251"]
 	}
 ]
