@@ -25,6 +25,16 @@
 		"uniques": ["40% of food is carried over after a new citizen is born"]
 	},
 	{
+		"name": "Eirin's Lab",
+		"replaces": "Research Lab",
+		"science": 7,
+		"percentStatBonus": {"science": 65},
+		"specialistSlots": {"Scientist": 5},
+		"requiredBuilding": "Public School",
+		"maintenance": 3,
+		"requiredTech": "Plastics"
+	},
+	{
 		"name": "Temple of Chang'e",
 		"replaces": "Temple of Artemis",
 		"uniqueTo": "Lunatic Kingdom",
