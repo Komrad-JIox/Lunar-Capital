@@ -27,6 +27,7 @@
 	{
 		"name": "Eirin's Lab",
 		"replaces": "Research Lab",
+		"uniqueTo": "Lunatic Kingdom",
 		"science": 7,
 		"percentStatBonus": {"science": 65},
 		"specialistSlots": {"Scientist": 5},
